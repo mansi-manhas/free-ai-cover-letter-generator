@@ -11,6 +11,8 @@ LEARN and DOCUMENT more about fine tuning and its metrics
 
 ## Screenshots
 
+![image](https://github.com/mansi-manhas/free-ai-cover-letter-generator/assets/18692751/541e72cc-d89a-4a50-9897-7a9cf6217008)
+
 ![image](https://github.com/mansi-manhas/free-ai-cover-letter-generator/assets/18692751/93e79f2f-20c5-43d4-b371-35d91f85a09b)
 
 ![image](https://github.com/mansi-manhas/free-ai-cover-letter-generator/assets/18692751/7d593d09-00c0-4fc0-960e-58b5d4827dda)
